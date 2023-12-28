@@ -10870,7 +10870,7 @@ video.bg-video {
   border-radius: 10px;
   display: block;
   background-position: right center; 
-  width: 35%;
+  width: 50%;
   margin-top: 40px;
 }
 
@@ -10891,7 +10891,7 @@ video.bg-video {
 }
 
 .icon{
-  height: 3em;
+  height: 2em;
 }
 
 @media (min-width: 320px) and (max-width: 420px) {
